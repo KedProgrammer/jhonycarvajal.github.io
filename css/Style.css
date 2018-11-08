@@ -1,0 +1,208 @@
+
+
+body{
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 16px;
+	line-height: 1.6;
+	background-size: 
+
+}
+
+
+
+.home-wrapper {
+	
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url("../images/home3.jpg") no-repeat center top;
+	background-size: cover;
+	color: white;
+
+}
+
+.div-profile {
+	
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url("../images/home.jpg") no-repeat center top;
+	background-size: 100%;
+	color: white;
+	background-attachment: ;
+
+}
+
+header {
+	
+	padding: 10px 0;
+	width: 100%;
+	background-color: #ACAFAF ;
+	position: fixed;
+	
+
+}
+
+header nav {
+	float: center;
+	margin-top: 15px;
+	text-align: center;
+}
+
+header nav a {
+	color: black;
+	font-weight: bold;
+	text-decoration: none;
+	margin-left: 10px ;
+	padding-left: 10px 15px;
+	
+}
+
+
+header nav a.active {
+	
+	border-radius: 5PX;
+	background-color: #F8FBFB;
+
+}
+#home{
+	text-align: center;
+	padding: 200px 0 150px;
+
+}
+
+#home h1{
+	font-size: 50px;
+	font-weight: normal; 
+	line-height: 1.2;
+	margin-bottom: 40px;
+	
+
+}
+
+#home .divider {
+	width: 80px;
+	border-top: 5px solid whitesmoke;
+	margin: 0 auto;
+
+}
+#home p {
+	font-size: 24px;
+	margin-top: 40px ;
+
+}
+#home .social {
+	margin-top: 80px;
+
+}
+
+
+ #home .social a{
+	color: white;
+	display: inline-block;
+	border-radius: 50%;
+	background-color: black;
+	font-size: 24px;
+	font-weight: bold;
+	height: 50px;
+	width: 50px;
+	margin-right: 10px;
+	line-height: 50px;
+	-webkit-transition: all .3s;
+	-moz-transition: all .3s;
+	transition: all .3s;
+
+} 
+
+#home .social a:hover {
+	background-color: #ACAFAF;
+
+}
+
+#Skills {
+	background-color: whitesmoke;
+	text-align: center;
+
+
+}
+
+
+
+#Skills .box {
+
+	text-align: center;
+	display: inline-block;
+	
+	width: 33%;
+	padding: 10px;
+
+
+}
+
+#CONTACTO {
+	background-color: #ACAFAF;
+	
+	background-position: center;
+	background-repeat: no-repeat;
+	text-align: center;
+
+}
+#CONTACTO h2{
+	color: white;
+}
+
+#CONTACTO input{
+	padding: 20px;
+	width: 400px;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+
+}
+
+#CONTACTO textarea{
+	margin: 20px 0;
+	padding: 20px;
+	width: 400px;
+
+}
+
+#CONTACTO button{
+	background-color: white;
+	padding: 20px 40px;
+	border-color: #fed136;
+	border-radius: 3px;
+	color: black;
+	font-size: 18px;
+	line-height: 1;
+	font-weight: bold;
+
+}
+.contenedor	{
+	display: flex;
+	justify-content: wrap;
+	align-items
+	width: 992px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 5px;
+
+}
+
+.contenedor1	{
+	
+	text-align: center;
+	font-size: 18PX;
+	width: auto;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 5px;
+
+
+
+}
+#Profile .box {
+
+	text-align: center;
+	display: inline-block;
+	font-size: 25px;
+	width: 50%;
+	padding: 10px;
+
+
+}
+
