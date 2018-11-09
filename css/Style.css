@@ -12,7 +12,7 @@ body{
 
 .home-wrapper {
 	
-	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url("/images/home3.jpg") no-repeat center top;
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url("../images/home3.jpg") no-repeat center top;
 	background-size: cover;
 	color: white;
 
@@ -20,7 +20,7 @@ body{
 
 .div-profile {
 	
-	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url("/images/home.jpg") no-repeat center top;
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url("../images/home.jpg") no-repeat center top;
 	background-size: 100%;
 	color: white;
 	background-attachment: ;
